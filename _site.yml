@@ -1,0 +1,22 @@
+name: "Sarah Eltinge"
+output_dir: "."
+navbar:
+  title: "Sarah Eltinge"
+  left:
+    - text: "Academic Research"
+      href: research.html
+    - text: "Personal Programming"
+      href: programming.html
+    - text: "Kittens"
+      href: kittens.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/eltinge
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/saraheltinge
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/eltinge/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
