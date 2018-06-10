@@ -8,13 +8,13 @@ output: html_document
 I'm excited to present some of my GIS work at Johnson & Johnson at two conferences this fall:
 
 1. [Women in Statistics and Data Science](http://ww2.amstat.org/meetings/wsds/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304956) | October 18-20 2018 | Cincinnati, OH 
-2. [EARL ConferencE Boston](https://earlconf.com/2018/boston/) | November 13 2018 | Boston, MA
+2. [EARL Conference Boston](https://earlconf.com/2018/boston/) | November 13 2018 | Boston, MA
 
 Check back later for my poster and slides from these two conferences!
 
 ## Publications
 
-I have been published twice for addictions treatment work I completed as an undergraduate student at Brown University:
+I have been published twice for addiction treatment work I completed as an undergraduate student at Brown University:
 
 1. Haass-Koffler, Carolina L., Kimberly Goodyear, William H. Zywiak, Molly Magill, Sarah E. Eltinge, Paul M. Wallace, Victoria M. Long et al. "Higher pretreatment blood pressure is associated with greater alcohol drinking reduction in alcohol-dependent individuals treated with doxazosin." Drug & Alcohol Dependence 177 (2017): 23-28. [link](https://www.drugandalcoholdependence.com/article/S0376-8716(17)30200-4/fulltext)
 
