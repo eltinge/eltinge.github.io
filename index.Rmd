@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Welcome"
 output: html_document
 ---
 
@@ -7,22 +7,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+![](images/Providence.jpg "Providence, RI")
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I'm a data scientist interested in applying my computational skills to real-world public and behavioral health problems. I'm particularly invested in:
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+1) Exploring the potential for data science to improve behavioral health research and outcomes
 
-```{r cars}
-summary(cars)
-```
+2) Using GIS to understand the interplay between geography and health, with a social justice lens.
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I currently work at Johnson and Johnson's recently opened [Healthcare Technology Center](http://www.providencejournal.com/news/20170914/in-providences-jewelry-district-glimpse-of-ris-future-tech-economy) in Providence, RI; however, all work on this website and my personal Github are my own. I intend this site to be a space for public documentation of my personal projects. If you have any feedback or ideas for potential collaborations, feel free to reach out via [Twitter](https://twitter.com/saraheltinge) or [Github](https://github.com/eltinge). 

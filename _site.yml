@@ -1,22 +1,25 @@
-name: "Sarah Eltinge"
-output_dir: "."
+name: Sarah Eltinge
+output_dir: '.'
 navbar:
-  title: "Sarah Eltinge"
+  title: Sarah Eltinge
   left:
-    - text: "Academic Research"
-      href: research.html
-    - text: "Personal Programming"
-      href: programming.html
-    - text: "Kittens"
-      href: kittens.html
+  - text: About
+    href: about.html
+  - text: Personal Programming
+    href: programming.html
+  - text: Talks & Publications
+    href: talks_publications.html
   right:
-    - icon: fa-github fa-lg
-      href: http://github.com/eltinge
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/saraheltinge
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/eltinge/
+  - icon: fa-github fa-lg
+    href: http://github.com/eltinge
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/saraheltinge
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/eltinge/
 output:
   html_document:
     theme: paper
-    css: 'styles.css'
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+

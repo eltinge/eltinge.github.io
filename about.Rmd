@@ -1,0 +1,16 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div style="text-align:center"><img src="images/Sarah Eltinge.png" alt="Sarah Eltinge" width="200px"/></div>
+
+I grew up in the Washington, DC metro area and moved to Providence, RI in 2013 to attend Brown University. I graduated in 2017 with a double major in public health and statistics. My public health honors thesis, which focused on personalizing treatments for alcohol use disorder, was [recognized](https://www.brown.edu/academics/public-health/news/2017-05/2017-undergraduate-awards) as the best undergraduate thesis in the School of Public Health. You can read a bit more about it [here](https://www.brown.edu/academics/public-health/sarah-eltinge-undergraduate-public-healthstatistics). At Brown, I was also heavily involved in the [Meiklejohn peer advising program](https://www.brown.edu/academics/college/advising/peer/) and [Environmental Program House](https://brownwesthouse.wordpress.com/). 
+
+Professionally, I'm interested in applying my data science skills to real-world public health problems. I believe that improving environmental and behavioral health will be key to the success of future generations, and I see a big role for data science to play in this work. If you have ideas for open-source projects in these and other social justice areas, please reach out!
+
+I'm proud to be a transplanted Rhode Islander and will gladly tell you about our beaches, local food scene, and small-state quirks. In my free time, I enjoy knitting, trivia competitions, and cooking vegetarian meals with local produce from [Veggie Box RI](https://www.farmfreshri.org/programs/veggie-box/). I also recently started fostering kittens through the [Providence Animal Rescue League](http://parl.org/).
