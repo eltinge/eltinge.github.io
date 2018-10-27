@@ -5,12 +5,13 @@ output: html_document
 
 ## Talks
 
-I'm excited to present some of my GIS work at Johnson & Johnson at two conferences this fall:
+Below is a current list of conferences at which I have presented, or will present, some of my work with J&J.
 
-1. [Women in Statistics and Data Science](http://ww2.amstat.org/meetings/wsds/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304956) | October 18-20 2018 | Cincinnati, OH 
-2. [EARL Conference Boston](https://earlconf.com/2018/boston/) | November 13 2018 | Boston, MA
+1. [Women in Statistics and Data Science](http://ww2.amstat.org/meetings/wsds/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304956) | October 18-20 2018 | Cincinnati, OH  | [Poster](presentations/Eltinge WSDS Poster.pdf)
+2. [EARL Conference Boston](https://earlconf.com/2018/boston/) | November 13 2018 | Boston, MA | [Slides](presentations/Eltinge JnJ EARL 2018.pdf)
+3. [rstudio::conf](https://www.rstudio.com/conference/) | January 17-18 2019 | Austin, TX
 
-Check back later for my poster and slides from these two conferences!
+Last updated 10/27/18.
 
 ## Publications
 
